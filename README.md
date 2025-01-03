@@ -1,4 +1,4 @@
-# Student's Dropout Prediction using Supervised Machine Learning Classifiers
+# Student's Dropout Prediction 
 A Data science project on Predicting Students' dropout using Machine Learning classification models
 
 ### Introduction ###
